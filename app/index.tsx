@@ -73,6 +73,7 @@ export default function App() {
   if (!hasLoadedFonts) {
     return null;
   }
+  
 
   return (
     <ImageBackground
